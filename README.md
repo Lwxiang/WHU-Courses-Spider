@@ -1,14 +1,15 @@
-º¬Ô´ÎÄ¼şÈçÏÂ£º
-    1.rule_zhuanyeke.py             ×¨Òµ¿Î²éÑ¯×Ö¶Î¼¯
-    2.spider_base.py                »ñÈ¡ÑéÖ¤Âë£»Ä£ÄâµÇÈë
-    3.spider_gongxuanke.py          ¹«Ñ¡¿ÎÅÀ³æ
-    4.spider_gongbike.py            ¹«±Ø¿ÎÅÀ³æ
-    5.spider_zhuanyeke.py           ×¨Òµ¿ÎÅÀ³æ
-    6.checker.py                    ¼ì²é»ù±¾ºÏ·¨ĞÔ
-    7.sender.py                     ·¢ËÍÖÁÕÆÉÏÎä´ó¿Õ½ÌÊÒAPI½Ó¿Ú
-    
-ÔÚspider_base.pyÖĞÌîĞ´_idºÍpwd£¬×÷Îª½ÌÎñµÇÈëµÄÕËºÅÃÜÂë
-ÔËĞĞpython spider_gongxuanke.py£¨»òÆäËûÁ½¸ö£©£¬¸ù¾İ»ñµÃµÄÑéÖ¤ÂëÍ¼Æ¬img.jpg£¬ÔÚÃüÁîĞĞÊäÈëÑéÖ¤Âë
-ÅÀ³æ»ñµÃÊı¾İ´¢´æÖÁdata_gongxuanke£¨»òÆäËûÁ½¸ö£©
-Ê¹ÓÃpython check.py¼ì²éÊÇ·ñ·ûºÏ¿Õ½ÌÊÒÊı¾İ¸ñÊ½
-Ê¹ÓÃpython sender.py·¢ËÍÊı¾İ
+å«æºæ–‡ä»¶å¦‚ä¸‹ï¼š
+
+    1.rule_zhuanyeke.py             ä¸“ä¸šè¯¾æŸ¥è¯¢å­—æ®µé›†
+    2.spider_base.py                è·å–éªŒè¯ç ï¼›æ¨¡æ‹Ÿç™»å…¥
+    3.spider_gongxuanke.py          å…¬é€‰è¯¾çˆ¬è™«
+    4.spider_gongbike.py            å…¬å¿…è¯¾çˆ¬è™«
+    5.spider_zhuanyeke.py           ä¸“ä¸šè¯¾çˆ¬è™«
+    6.checker.py                    æ£€æŸ¥åŸºæœ¬åˆæ³•æ€§
+    7.sender.py                     å‘é€è‡³æŒä¸Šæ­¦å¤§ç©ºæ•™å®¤APIæ¥å£
+
+åœ¨spider_base.pyä¸­å¡«å†™_idå’Œpwdï¼Œä½œä¸ºæ•™åŠ¡ç™»å…¥çš„è´¦å·å¯†ç 
+è¿è¡Œpython spider_gongxuanke.pyï¼ˆæˆ–å…¶ä»–ä¸¤ä¸ªï¼‰ï¼Œæ ¹æ®è·å¾—çš„éªŒè¯ç å›¾ç‰‡img.jpgï¼Œåœ¨å‘½ä»¤è¡Œè¾“å…¥éªŒè¯ç 
+çˆ¬è™«è·å¾—æ•°æ®å‚¨å­˜è‡³data_gongxuankeï¼ˆæˆ–å…¶ä»–ä¸¤ä¸ªï¼‰
+ä½¿ç”¨python check.pyæ£€æŸ¥æ˜¯å¦ç¬¦åˆç©ºæ•™å®¤æ•°æ®æ ¼å¼
+ä½¿ç”¨python sender.pyå‘é€æ•°æ®
